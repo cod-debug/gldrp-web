@@ -27,10 +27,12 @@ export default function Home(){
                                             transition ease-in duration-300
                                         ">EXPLORE</button>
                                         <button className="border border-accent 
+                                            text-accent
                                             px-8 py-2 
                                             rounded-3xl
                                             hover:bg-accent
                                             hover:border-white
+                                            hover:text-white
                                             transition ease-in duration-300
                                         ">INQUIRE</button>
                                     </div>
