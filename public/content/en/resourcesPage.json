@@ -1,0 +1,12 @@
+{
+    "resources": "Your Resources & Tools",
+    "select_a_tag_to_filter": "Select a tag to filter",
+    "all": "All",
+    "tags": "Tags",
+    "hash_character": "#",
+    "launch": "Launch",
+    "search": "Search",
+    "search_placeholder": "Search by title, description, or tag",
+    "back": "Back",
+    "filter_tags": ["Identify", "Listen", "Empathize", "Apologize", "Deliver a Solution", "Service Recovery - Introduction and Resources", "Activity", "eLearning"]
+}

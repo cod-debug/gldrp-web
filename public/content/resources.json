@@ -1,0 +1,353 @@
+[
+    {
+        "en": {
+            "resource_name": "Next Action",
+            "link": "https://ihg.bravais.com/s/4LM6VWAtRUN2xPvH6ydr",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/Vignette.PNG",
+            "duration": "10 min",
+            "description": "Gain control and focus as a way to overcome troublesome situations",
+            "tags": [
+                "Deliver a Solution",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Well, that's frustrating",
+            "link": "https://ihg.bravais.com/s/oqXD3wCDKtQ9W7H58ddF",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/Kimpton_FD.PNG",
+            "description": "Help colleagues in each department identify possible frustrations experienced by guests and solutions.",
+            "duration": "10 min",
+            "tags": [
+                "Identify",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Mystery guest",
+            "link": "https://ihg.bravais.com/s/G89DtgHYQ9pfvtcl1I2q",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/CP Engineering.PNG",
+            "description": "Help team members experience the hotel from a guest’s perspective, identifying problems that might not be visible in their regular roles.",
+            "duration": "20 min",
+            "tags": [
+                "Identify",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Active listening",
+            "link": "https://ihg.bravais.com/s/jr3IozRuFTa3T4Fuio8O",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/Hotel Indigo FD.PNG",
+            "description": "Enhance active listening skills by practicing techniques such as paraphrasing, showing empathy, and responding effectively to ensure clear communication.",
+            "duration": "20 min",
+            "tags": [
+                "Listen",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Team listening relay",
+            "link": "https://ihg.bravais.com/s/cp3qOab97jjktwigI7zL",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/EVEN Housekeeping.PNG",
+            "description": "Test team’s ability to retain and relay information accurately",
+            "duration": "20 min",
+            "tags": [
+                "Listen",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "How does the guest feel?",
+            "link": "https://ihg.bravais.com/s/OUF7gY2huk8wUTlOSYXE",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/InterContinental FD.PNG",
+            "description": "Teach team to infer guest needs and feelings by listening for verbal and non-verbal cues.",
+            "duration": "15 min",
+            "tags": [
+                "Empathize",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Paraphrasing practice",
+            "link": "https://ihg.bravais.com/s/W5ApDTNZ4gIwRpUVrTbY",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/VOCO.PNG",
+            "description": "Test team’s ability to retain and relay information accurately",
+            "duration": "20 min",
+            "tags": [
+                "Empathize",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "The art of the apology",
+            "link": "https://ihg.bravais.com/s/31yzkx8Xiav9zhehWBTy",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/colleague and guest.jpg",
+            "description": "Help team members practice sincere and professional responses to guest concerns for issues that are within the hotel’s responsibility",
+            "duration": "20 min",
+            "tags": [
+                "Apologize",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Solution pitch challenge",
+            "link": "https://ihg.bravais.com/s/tKalOnhj51QEeramSed3",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/EVEN GC Engineering.PNG",
+            "description": "Train team members to confidently and effectively deliver solutions to guest problems, ensuring clarity, empathy, and professionalism.",
+            "duration": "20 min",
+            "tags": [
+                "Deliver a Solution",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Empowerment guide",
+            "link": "https://ihg.bravais.com/s/ywQ7wqHVbBe2jj327caP",
+            "type": "Learning",
+            "thumbnail_src": "./assets/images/resources/HolidayInn_BST_Engineering-1.jpeg",
+            "description": "Learn the benefits of an empowered service culture that puts the guest at the heart of all decisions and actions.",
+            "duration": "5 min",
+            "tags": [
+                "Service Recovery - Introduction and Resources",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Story Quick Challenge",
+            "link": "https://ihg.bravais.com/s/y8gNv6Pz3iI29r0wcQ5e",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/logo-small-use.png",
+            "description": "Enhance team members’ understanding and application of the ILEAD service recovery process through a fast-paced, interactive discussion that encourages colleagues to think on their feet. ",
+            "duration": "20 min",
+            "tags": [
+                "Service Recovery - Introduction and Resources",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "IHG Problem Handling eLearning",
+            "link": "https://mylearning.sumtotal.host/core/pillarRedirect?relyingParty=LM&url=app%2Fmanagement%2FLMS_ActDetails.aspx%3FActivityId%3D21837%26UserMode%3D0",
+            "type": "Learning",
+            "thumbnail_src": "./assets/images/resources/Problem handling eLearning.png",
+            "description": "Gain skills to solve guest problems through self-paced eLearning with the goal of increasing GuestLove.",
+            "duration": "60 min",
+            "tags": [
+                "Service Recovery - Introduction and Resources",
+                "eLearning"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "ILEAD - Service Recovery Role Play",
+            "link": "https://ihg.bravais.com/s/uPB1SssdA5oHWsvybFiX",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/ILEAD role play.png",
+            "description": "Put ILEAD into practice through a series of common scenarios.",
+            "duration": "15 min",
+            "tags": [
+                "Service Recovery - Introduction and Resources",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Daily coaching calendar",
+            "link": "https://me2.ihgmerlin.com/web/applications/article?id=169309260",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/Daily coaching calendar.png",
+            "description": "Use this calendar to coach your team on a daily basis on how best to handle service recovery situations.",
+            "duration": "15 min",
+            "tags": [
+                "Service Recovery - Introduction and Resources",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Solution speed",
+            "link": "https://ihg.bravais.com/s/zeoX29AwhtYaKKboPRJe",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/Kimpton F&B.PNG",
+            "description": "Train team members to confidently and effectively deliver solutions to guest problems, ensuring clarity, empathy, and professionalism.",
+            "duration": "20 min",
+            "tags": [
+                "Deliver a Solution",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Empowerment agreement",
+            "link": "https://ihg.bravais.com/s/DoqW2U7q53cr1BTdfnQS",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/Empowerment agreement.png",
+            "description": "Solidify the commitment to empowerment through this tangible certificate.",
+            "duration": "2 min",
+            "tags": [
+                "Service Recovery - Introduction and Resources",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Stepping into responsbility",
+            "link": "https://ihg.bravais.com/s/ChW5xfPVP8chohQkN9Ms",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/Hotel Indigo F&B.PNG",
+            "description": "Practice taking ownership and apologizing to resolve a problem you did not directly cause",
+            "duration": "20 min",
+            "tags": [
+                "Apologize",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "The 5 whys",
+            "link": "https://ihg.bravais.com/s/rUsQSly1Bsr84aEvmhur",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/FD SBS.jpg",
+            "description": "Practice identifying underlying problems by analyzing statements and usingthe “5 Whys Technique.”",
+            "duration": "20 min",
+            "tags": [
+                "Identify",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Scenario cards",
+            "link": "https://ihg.bravais.com/s/0bMU9irhJvR2E8yqLX5i",
+            "type": "PDF",
+            "thumbnail_src": "./assets/images/resources/FD_HIEX.jpg",
+            "description": "Access common guest scenarios and customizable templates for use in problem handling activities.  ",
+            "duration": "2 min",
+            "tags": [
+                "Service Recovery - Introduction and Resources",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Empathy reflection",
+            "link": "https://ihg.bravais.com/s/RNumFrWkMcngJ8Xfrklf",
+            "type": "PDF",
+            "description": "Focus on building empathy by helping participants actively understand and connect with others’ perspectives in a group setting.",
+            "duration": "20 min",
+            "thumbnail_src": "./assets/images/resources/HI.jpg",
+            "tags": [
+                "Empathize",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "When do I complain?",
+            "link": "https://ihg.bravais.com/s/2tidXCA5lWIlHWr9sWlQ",
+            "type": "PDF",
+            "description": "Explore how guests might feel and how this can affect whether they report the problem or not",
+            "duration": "10 min",
+            "thumbnail_src": "./assets/images/resources/logo-small-use.png",
+            "tags": [
+                "Identify",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Listen to me",
+            "link": "https://ihg.bravais.com/s/Btrf6TAYAckIgeGRDzMQ",
+            "type": "PDF",
+            "description": "Explore the impact of active listening on both parties, and why this is critical for problem handling",
+            "duration": "10 min",
+            "thumbnail_src": "./assets/images/resources/logo-small-use.png",
+            "tags": [
+                "Listen",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Respond to feelings",
+            "link": "https://ihg.bravais.com/s/IOOGjCQFhpFyEaopLbhH",
+            "type": "PDF",
+            "description": "Explore the impact of active listening on both parties, and why this is critical for problem handling",
+            "duration": "10 min",
+            "thumbnail_src": "./assets/images/resources/logo-small-use.png",
+            "tags": [
+                "Empathize",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Keep your radar on",
+            "link": "https://ihg.bravais.com/s/hAIe8vfylekeJO8u7wgE",
+            "type": "PDF",
+            "description": "Discuss the importance of anticipating problems, keeping their radar on for possible problems and what signs to watch out for",
+            "duration": "10 min",
+            "thumbnail_src": "./assets/images/resources/logo-small-use.png",
+            "tags": [
+                "Identify",
+                "Activity"
+            ]
+        }
+    },
+    {
+        "en": {
+            "resource_name": "Lean in",
+            "link": "https://ihg.bravais.com/s/DR5ayTk9MXhgHVmCcATT",
+            "type": "PDF",
+            "description": "Discuss the impact of guests not reporting problems and try out different questions to use with guests to give them an opportunity to report problems early",
+            "duration": "15 min",
+            "thumbnail_src": "./assets/images/resources/logo-small-use.png",
+            "tags": [
+                "Identify",
+                "Listen",
+                "Activity"
+            ]
+        }
+    }
+]
