@@ -26,7 +26,7 @@ export default function Home(){
                                 </div>
                             </div>
                             <div className="col-span-12 lg:col-span-6 order-1 lg:order-2">
-                                <img alt="isometric technology" src="./assets/images/isometric-tech.png" className="max-full w-[400px] mx-auto" />
+                                <img alt="isometric technology" src="./assets/images/isometric-tech.png" className="max-full w-full mx-auto" />
                             </div>
                         </div>
                     </div>
