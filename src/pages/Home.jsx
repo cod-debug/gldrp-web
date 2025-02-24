@@ -9,8 +9,8 @@ export default function Home(){
 
     return(
         <div>
-            <div class={`radial-glow w-[32vw] aspect-square rounded-full fixed -top-[14vw] -left-[18vw]`}></div>
-            <div class={`radial-glow w-[25vw] aspect-square rounded-full fixed -top-[12vw] -right-[16vw]`}></div>
+            <div className={`radial-glow w-[32vw] aspect-square rounded-full fixed -top-[14vw] -left-[18vw]`}></div>
+            <div className={`radial-glow w-[25vw] aspect-square rounded-full fixed -top-[12vw] -right-[16vw]`}></div>
             <main>
                 <Container>
                     <div className="min-h-[100vh] flex items-center text-white p-4">
