@@ -56,13 +56,13 @@ export default function Header() {
                                     <Link to="/" className="w-full text-white">HOME</Link>
                                 </Navbar.Link>
                                 <Navbar.Link className="font-normal">
-                                    <Link to="/who-we-are" className="w-full text-white">WHO WE ARE</Link>
+                                    <Link to="/" className="w-full text-white">WHO WE ARE</Link>
                                 </Navbar.Link>
                                 <Navbar.Link className="font-normal">
-                                    <Link to="/connect" className="w-full text-white">CONNECT WITH US</Link>
+                                    <Link to="/" className="w-full text-white">CONNECT WITH US</Link>
                                 </Navbar.Link>
                                 <Navbar.Link className="font-normal">
-                                    <Link to="/about-us" className="w-full text-white">PROJECT</Link>
+                                    <Link to="/" className="w-full text-white">PROJECT</Link>
                                 </Navbar.Link>
                             </div>
                         </div>
