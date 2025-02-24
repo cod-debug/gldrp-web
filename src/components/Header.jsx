@@ -62,7 +62,7 @@ export default function Header() {
                                     <Link to="/" className="w-full text-white">CONNECT WITH US</Link>
                                 </Navbar.Link>
                                 <Navbar.Link className="font-normal">
-                                    <Link to="/" className="w-full text-white">PROJECT</Link>
+                                    <Link to="/" className="w-full text-white">PROJECTS</Link>
                                 </Navbar.Link>
                             </div>
                         </div>

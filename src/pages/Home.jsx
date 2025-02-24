@@ -20,8 +20,19 @@ export default function Home(){
                                     <div className="text-4xl font-bold bg-gradient-to-r from-accent to-secondary bg-clip-text text-transparent">DEVELOPING FUTURE ONE TECH AT A TIME</div>
                                     <p className="font-normal">Streamline and automate your business with ease!</p>
                                     <div className="flex flex-col lg:flex-row gap-4">
-                                        <button className="bg-accent px-8 py-2 rounded-3xl">EXPLORE</button>
-                                        <button className="border border-accent px-8 py-2 rounded-3xl">INQUIRE</button>
+                                        <button className="border border-accent
+                                            bg-accent px-8 py-2 rounded-3xl 
+                                            hover:bg-primary
+                                            hover:border-white
+                                            transition ease-in duration-300
+                                        ">EXPLORE</button>
+                                        <button className="border border-accent 
+                                            px-8 py-2 
+                                            rounded-3xl
+                                            hover:bg-accent
+                                            hover:border-white
+                                            transition ease-in duration-300
+                                        ">INQUIRE</button>
                                     </div>
                                 </div>
                             </div>
